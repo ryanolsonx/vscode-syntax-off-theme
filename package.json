@@ -1,8 +1,9 @@
 {
-  "name": "ryanolsonx.syntax-off",
-  "version": "0.0.0",
-  "displayName": "Syntax Off",
-  "description": "No syntax highlighting, just plain text.",
+  "name": "ryanolsonxsyntaxoff",
+  "version": "1.0.0",
+  "displayName": "Without Syntax Highlighting",
+  "description": "A minimal theme for Visual Studio Code that removes all syntax highlighting, providing a plain text experience.",
+  "author": "Ryan Olson",
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-syntax-off-theme",
   "license": "MIT",
